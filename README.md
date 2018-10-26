@@ -6,7 +6,7 @@ This repository is designed to quickly catch you up on the React Changelog and a
 
 - [setState updater signature](https://reactjs.org/docs/react-component.html#setstate)
 - [componentDidCatch](https://reactjs.org/docs/react-component.html#componentdidcatch) and [ErrorBoundary](https://reactjs.org/docs/error-boundaries.html)
-- getDerivedStateFromProps
+- [getDerivedStateFromProps](https://reactjs.org/docs/react-component.html#static-getderivedstatefromprops)
 - getSnapshotBeforeUpdate
 - componentWillMount
 - componentWillReceiveProps
@@ -14,3 +14,4 @@ This repository is designed to quickly catch you up on the React Changelog and a
 - refs (all three of them!)
 - forwardRef
 - createContext
+- 
