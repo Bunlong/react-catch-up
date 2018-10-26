@@ -13,4 +13,4 @@ This repository is designed to quickly catch you up on the React Changelog and a
 - [arrays and Fragment](https://reactjs.org/docs/fragments.html)
 - [refs (all three of them!)](https://reactjs.org/docs/refs-and-the-dom.html)
 - [forwardRef](https://reactjs.org/docs/forwarding-refs.html)
-- [createContext](https://reactjs.org/docs/context.html)
+- [Context](https://reactjs.org/docs/context.html)
