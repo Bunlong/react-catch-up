@@ -10,7 +10,7 @@ This repository is designed to quickly catch you up on the React Changelog and a
 - [getSnapshotBeforeUpdate](https://reactjs.org/docs/react-component.html#getsnapshotbeforeupdate)
 - [unsafe_componentwillmount](https://reactjs.org/docs/react-component.html#unsafe_componentwillmount)
 - [unsafe_componentwillreceiveprops](https://reactjs.org/docs/react-component.html#unsafe_componentwillreceiveprops)
-- arrays and Fragment
+- [arrays and Fragment](https://reactjs.org/docs/fragments.html)
 - refs (all three of them!)
 - forwardRef
 - createContext
