@@ -9,7 +9,7 @@ This repository is designed to quickly catch you up on the React Changelog and a
 - [getDerivedStateFromProps](https://reactjs.org/docs/react-component.html#static-getderivedstatefromprops)
 - [getSnapshotBeforeUpdate](https://reactjs.org/docs/react-component.html#getsnapshotbeforeupdate)
 - [unsafe_componentwillmount](https://reactjs.org/docs/react-component.html#unsafe_componentwillmount)
-- componentWillReceiveProps
+- [unsafe_componentwillreceiveprops](https://reactjs.org/docs/react-component.html#unsafe_componentwillreceiveprops)
 - arrays and Fragment
 - refs (all three of them!)
 - forwardRef
