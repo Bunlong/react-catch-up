@@ -11,6 +11,6 @@ This repository is designed to quickly catch you up on the React Changelog and a
 - [unsafe_componentwillmount](https://reactjs.org/docs/react-component.html#unsafe_componentwillmount)
 - [unsafe_componentwillreceiveprops](https://reactjs.org/docs/react-component.html#unsafe_componentwillreceiveprops)
 - [arrays and Fragment](https://reactjs.org/docs/fragments.html)
-- refs (all three of them!)
+- [refs (all three of them!)](https://reactjs.org/docs/refs-and-the-dom.html)
 - forwardRef
 - createContext
